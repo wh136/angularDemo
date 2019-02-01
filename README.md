@@ -45,11 +45,14 @@ TypeScript 是 Microsoft 开发和维护的一种面向对象的编程语言。�
 https://angular.io/guide/quickstart
 
 https://code.visualstudio.com/docs/nodejs/angular-tutorial
-		
-	npm install -g @angular/cli
-	ng new my-app
-	cd my-app
-	ng serve
-	You should see "Welcome to app!!" on http://localhost:4200 in your browser
-	cd my-app
-	code .
+    npm install -g @angular/cli
+    ng new my-app
+    cd my-app
+    ng serve
+    You should see "Welcome to app!!" on http://localhost:4200 in your browser
+    cd my-app
+    code .
+
+    app.component.ts— the component class code, written in TypeScript.
+    app.component.html— the component template, written in HTML.
+    app.component.css— the component's private CSS styles.
