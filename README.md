@@ -56,3 +56,47 @@ https://code.visualstudio.com/docs/nodejs/angular-tutorial
     app.component.ts— the component class code, written in TypeScript.
     app.component.html— the component template, written in HTML.
     app.component.css— the component's private CSS styles.
+### DNE CENTER 代码笔记
+    http://www.runoob.com/angularjs2/angularjs2-architecture.html
+    package.json
+    @angular/animations
+    @angular/cdk
+    @angular/common
+    @angular/compiler
+    @angular/core
+    @angular/forms
+    @angular/http
+    @angular/material
+    @angular/platform-browser
+    @angular/platform-browser-dynamic
+    @angular/router
+    core-js
+    hammerjs
+    ngx-bootstrap
+    rxjs
+    zone.js
+    
+    devDependencies
+    @angular-devkit/build-angular
+    @angular-cli
+    @angular-compiler-cli
+    @angular-language-service
+    @type-jasmine
+    @type-jasminewd2
+    @types/node
+    @codelyzer
+    jasmine-core
+    jasmine-spec-reporter
+    karma
+    karma-chrome-launcher
+    karma-coverage-istanbul-reporter
+    karma-jasmine
+    karma-jasmine-html-reporter
+    protractor
+    ts-node
+    tslint
+    typescript
+    
+    
+
+
