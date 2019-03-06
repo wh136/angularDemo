@@ -68,7 +68,7 @@ https://code.visualstudio.com/docs/nodejs/angular-tutorial
     @angular/http
     @angular/material
     @angular/platform-browser
-    @angular/platform-browser-dynamic
+    @angular/platform-browser-dynamic          bootstraping: get (oneself or something) into or out of a situation using existing resources.
     @angular/router
     core-js
     hammerjs
@@ -97,6 +97,8 @@ https://code.visualstudio.com/docs/nodejs/angular-tutorial
     tslint
     typescript
     
+### 关于 @angular/ 的 @
+    https://stackoverflow.com/questions/36667258/what-is-the-meaning-of-the-at-prefix-on-npm-packages
     
 
 
