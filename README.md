@@ -101,4 +101,7 @@ https://code.visualstudio.com/docs/nodejs/angular-tutorial
     https://stackoverflow.com/questions/36667258/what-is-the-meaning-of-the-at-prefix-on-npm-packages
     
 
+### webstorm live Templates
+  在webstorm中输入rrc并点击那个提示小灯泡，可以打开一个窗口看到各种框架的模板生成快捷键。
+  其中angular的很多，输入英文字母就可以搜到很多。
 
