@@ -105,3 +105,10 @@ https://code.visualstudio.com/docs/nodejs/angular-tutorial
   在webstorm中输入rrc并点击那个提示小灯泡，可以打开一个窗口看到各种框架的模板生成快捷键。
   其中angular的很多，输入英文字母就可以搜到很多。
 
+### const  let 
+https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e
+
+const cannot be updated or re-declared
+
+内存地址，== 与 ====
+
