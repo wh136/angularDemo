@@ -112,12 +112,13 @@ const cannot be updated or re-declared
 
 内存地址，== 与 ====
 
-\<ng-template matTabContent\>
-  https://dzone.com/articles/understanding-output-and-eventemitter-in-angular
-  In Angular, a component can emit an event using @Output and EventEmitter.
+### \<ng-template matTabContent\>  延迟加载
+    https://material.angular.io/components/tabs/overview
+    https://dzone.com/articles/understanding-output-and-eventemitter-in-angular
+    In Angular, a component can emit an event using @Output and EventEmitter.
 
-
-https://blog.csdn.net/wf19930209/article/details/79349164
+    https://blog.csdn.net/wf19930209/article/details/79349164
 
 ###  @ViewChild 父子组件通信
-https://www.cnblogs.com/sghy/p/7244500.html
+    https://www.cnblogs.com/sghy/p/7244500.html
+
