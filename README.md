@@ -112,4 +112,6 @@ const cannot be updated or re-declared
 
 内存地址，== 与 ====
 
-<ng-template matTabContent>
+\\<ng-template matTabContent\\>
+  https://dzone.com/articles/understanding-output-and-eventemitter-in-angular
+  In Angular, a component can emit an event using @Output and EventEmitter.
