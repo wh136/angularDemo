@@ -119,5 +119,5 @@ const cannot be updated or re-declared
 
 https://blog.csdn.net/wf19930209/article/details/79349164
 
-###  @ViewChild 父子组件
+###  @ViewChild 父子组件通信
 https://www.cnblogs.com/sghy/p/7244500.html
