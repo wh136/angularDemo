@@ -118,6 +118,8 @@ const cannot be updated or re-declared
     In Angular, a component can emit an event using @Output and EventEmitter.
 
     https://blog.csdn.net/wf19930209/article/details/79349164
+    延迟加载后，选择不同的tab标签出现刷新的问题。
+    https://stackoverflow.com/questions/52744288/mat-tab-lazy-load-tab-only-once
 
 ###  @ViewChild 父子组件通信
     https://www.cnblogs.com/sghy/p/7244500.html
