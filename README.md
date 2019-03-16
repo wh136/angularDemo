@@ -124,3 +124,6 @@ const cannot be updated or re-declared
 ###  @ViewChild 父子组件通信
     https://www.cnblogs.com/sghy/p/7244500.html
 
+### 单个模板元素绑定多个指令的方法 ng-container
+    https://stackoverflow.com/questions/34657821/ngif-and-ngfor-on-same-element-causing-error
+    
