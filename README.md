@@ -126,4 +126,6 @@ const cannot be updated or re-declared
 
 ### 单个模板元素绑定多个指令的方法 ng-container
     https://stackoverflow.com/questions/34657821/ngif-and-ngfor-on-same-element-causing-error
+    多个select互斥选择同一个数据源
+    https://stackoverflow.com/questions/53724406/disable-selected-option-from-drop-down-one-to-drop-down-two-in-angular-2-mater
     
