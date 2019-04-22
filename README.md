@@ -132,4 +132,7 @@ const cannot be updated or re-declared
 ### 主从组件通信方式
     []=""    (sendData)="method($event)"
     ng-container
+    @Input() XXX: boolean
+    @Output() xxx: EventEmitter<any> = new EventEmitter();
+    
     
