@@ -132,7 +132,9 @@ const cannot be updated or re-declared
 ### 主从组件通信方式
     []=""    (sendData)="method($event)"
     ng-container
+    子组件接收父组件数据用Input
     @Input() XXX: boolean
+    子组件向父组件发送数据，用Output
     @Output() xxx: EventEmitter<any> = new EventEmitter();
     
     
