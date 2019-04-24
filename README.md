@@ -1,4 +1,4 @@
-# AngularDemo
+# Angular2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
@@ -137,4 +137,21 @@ const cannot be updated or re-declared
     子组件向父组件发送数据，用Output
     @Output() xxx: EventEmitter<any> = new EventEmitter();
     
+    
+# 云学堂 angularjs学习笔记
+    http://www.angularjs.net.cn/phonecat/7.html
+    AngularJS Scope(作用域)
+    <div ng-app="myApp" ng-controller="myCtrl">
+    <h1>{{carname}}</h1>
+    </div>
+
+    <script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope) {
+        $scope.carname = "Volvo";
+    });
+    </script>
+    https://angularjs.org/
+ ## 概念笔记
+    语义化标签：仅通过标签名就能判断出该标签内容的语义的标签，例如HTML 5 中的<article>、<section>、<nav>、<aside>、<header>、<footer>
     
